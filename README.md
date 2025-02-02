@@ -3,6 +3,9 @@ This Python script translates text into a specified target language using the Go
 Features
 
 ✅ Accepts user input for text and target language
+
 ✅ Returns translated text instantly
+
 ✅ Handles exceptions to avoid crashes
+
 ✅ Lightweight and easy to integrate into automation scripts
